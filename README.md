@@ -1,16 +1,18 @@
-### Hi there 👋
+# Hi, I'm ✨Mirailisc✨
 
-<!--
-**Mirailisc/Mirailisc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Phubordin Poolnai but people usually called me "Mark" 🧒🏽
 
-Here are some ideas to get you started:
+I'm a high school student with a motivation of becoming a software enginer or web developer (full-stack) ❤️
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Things that I current working and learning on
+- JavaScript/TypeScript
+- ReactJS/TS
+- Vue/Nuxt
+- GraphQL
+- Docker and Kubernetes
+
+Contact
+- [Facebook](https://facebook.com/MirailiscLm)
+- [Twitter](https://twitter.com/Mirailisc)
+- [Gitlab](https://gitlab.com/Mirailisc)
+- [LinkedIn](https://linkedin.com/in/phubordin-poolnai-31480a214/)
