@@ -15,6 +15,6 @@ I'm a high school student with a motivation of becoming a software enginer or we
 - [Facebook](https://facebook.com/MirailiscLm)
 - [Twitter](https://twitter.com/Mirailisc)
 - [Gitlab](https://gitlab.com/Mirailisc)
-- [LinkedIn](https://linkedin.com/in/phubordin-poolnai-31480a214/)
+- [LinkedIn](https://www.linkedin.com/in/phubordin/)
 
 ![Mark's GitHub stats](https://github-readme-stats.vercel.app/api?username=mirailisc&show_icons=true&theme=tokyonight)
