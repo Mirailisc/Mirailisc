@@ -1,15 +1,14 @@
 # Hi, I'm ✨Mirailisc✨
 
-My name is Phubordin Poolnai but people usually called me "Mark" 🧒🏽
+My name is Phubordin Poolnai (nickname: "Mark") 🧒🏽
 
-I'm a high school student with a motivation of becoming a software enginer or web developer (full-stack) ❤️
+I'm a high school student (will start college this year) with a motivation of becoming a software enginer or web developer ❤️
 
 ### Things that I current working and learning on
 - JavaScript/TypeScript
-- ReactJS/TS
-- Vue/Nuxt
+- ReactJS/TS (Next are included)
 - GraphQL
-- Docker and Kubernetes
+- Kubernetes
 
 ### Contact
 - [Facebook](https://facebook.com/MirailiscLm)
@@ -17,4 +16,4 @@ I'm a high school student with a motivation of becoming a software enginer or we
 - [Gitlab](https://gitlab.com/Mirailisc)
 - [LinkedIn](https://www.linkedin.com/in/phubordin/)
 
-![Mark's GitHub stats](https://github-readme-stats.vercel.app/api?username=mirailisc&show_icons=true&theme=tokyonight)
+![My github status](https://github-readme-stats.vercel.app/api?username=mirailisc&show_icons=true&theme=tokyonight)
