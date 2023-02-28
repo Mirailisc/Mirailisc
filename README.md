@@ -1,12 +1,13 @@
 # Hi, I'm ✨Mirailisc✨
 
-My name is Phubordin Poolnai (nickname: "Mark") 🧒🏽
+My name is Phubordin "Mark" Poolnai 🧒🏽
 
-I'm a high school student (will start college this year) with a motivation of becoming a software enginer or web developer ❤️
+I'm a high school student (will start college this year) with a motivation of becoming a software engineer or web developer ❤️
 
 ### Things that I current working and learning on
-- JavaScript/TypeScript
-- ReactJS/TS (Next are included)
+- JavaScript / TypeScript
+- ReactJS / TS
+- Next / Nuxt
 - GraphQL
 - Kubernetes
 
