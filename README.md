@@ -2,7 +2,7 @@
 
 My name is Phubordin "Mark" Poolnai 🧒🏽
 
-I'm a freshman college student who have one year of experience in front-end development. I am also interested in back-end development and DevOps.
+I'm a freshman college student who have two years of experience in front-end development. I am also interested in back-end development and DevOps.
 
 ### Things that I current working and learning on
 - JavaScript / TypeScript
