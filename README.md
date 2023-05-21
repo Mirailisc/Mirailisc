@@ -4,11 +4,21 @@ My name is Phubordin "Mark" Poolnai 🧒🏽
 
 I'm a freshman college student who have two years of experience in front-end development. I am also interested in back-end development and DevOps.
 
-### Things that I current working and learning on
+### My Programming Language or Tech Stack experiences
 - JavaScript / TypeScript
-- React and Next
-- GraphQL
-- Kubernetes
+- React / Next
+- Docker / Kubernetes
+- Vue / Nuxt
+- Tensorflow
+- Python
+- HTML & CSS
+- React Native
+- C++ / Arduino
+- NodeJS / Express
+- CI/CD: Github Action & Gitlab CI
+- Testing: Cypress & Jest
+- Databases: MongoDB, MySQL, Influx, Prometheus, MariaDB, Postgres, Redis
+- Honorable Mention, I used Arch btw 🗿
 
 ### Contact
 - [Facebook](https://facebook.com/MirailiscLm)
