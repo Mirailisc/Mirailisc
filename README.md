@@ -23,7 +23,6 @@ I'm a freshman college student who have two years of experience in front-end dev
 - Docker
 - Terraform
 - CI/CD: Github Action & Gitlab CI
-
 - Honorable Mention, I used Arch btw 🗿
 
 ### Contact
