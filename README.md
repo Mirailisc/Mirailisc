@@ -9,6 +9,7 @@ I'm a freshman college student who have two years of experience in front-end dev
 - HTML & CSS
 - JavaScript / TypeScript
 - C++ / Arduino
+- SQL
 
 #### Frontend
 - Framework: React / Next, Vue / Nuxt, React Native
