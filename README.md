@@ -5,20 +5,25 @@ My name is Phubordin "Mark" Poolnai 🧒🏽
 I'm a freshman college student who have two years of experience in front-end development. I am also interested in back-end development and DevOps.
 
 ### My Programming Language or Tech Stack experiences
-- JavaScript / TypeScript
-- React / Next
-- Docker / Kubernetes
-- Vue / Nuxt
-- Tensorflow
-- Python
+#### Languages
 - HTML & CSS
-- React Native
+- JavaScript / TypeScript
 - C++ / Arduino
-- NodeJS / Express
+
+#### Frontend
+- Framework: React / Next, Vue / Nuxt, React Native
 - UI Kit: Vuetify, MUI, Fluent UI, Chakra UI, Tailwind, Bootstrap, Ant Design **(Mostly create things myself)**
-- CI/CD: Github Action & Gitlab CI
 - Testing: Cypress & Jest
+
+#### Backend
+- Framework: NodeJS / Express
 - Databases: MongoDB, MySQL, Influx, Prometheus, MariaDB, Postgres, Redis
+
+#### DevOps
+- Docker
+- Terraform
+- CI/CD: Github Action & Gitlab CI
+
 - Honorable Mention, I used Arch btw 🗿
 
 ### Contact
