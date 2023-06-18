@@ -29,8 +29,9 @@ I'm a freshman college student who have two years of experience in front-end dev
 ### Contact
 - [Facebook](https://facebook.com/MirailiscLm)
 - [Twitter](https://twitter.com/Mirailisc)
-- [Gitlab (Current work)](https://gitlab.com/Mirailisc)
+- [Gitlab](https://gitlab.com/Mirailisc)
 - [LinkedIn](https://www.linkedin.com/in/phubordin/)
 
 ![My github status](https://github-readme-stats.vercel.app/api?username=mirailisc&show_icons=true&theme=tokyonight) <img src="https://media.tenor.com/pkDcBFnvuWoAAAAd/my-reaction-to-that-information-suisei.gif" alt="nice" width="200">
 
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Mirailisc&theme=tokyonight)
