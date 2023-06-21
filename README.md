@@ -2,9 +2,9 @@
 
 My name is Phubordin "Mark" Poolnai 🧒🏽
 
-I'm a "introverted" freshman college student who have two years of experience in front-end development.
+I'm a "introverted" freshman college student who have two years of experience in frontend development.
 
-I am also interested in back-end development and DevOps.
+I am also interested in backend development and DevOps.
 
 ### My Programming Language or Tech Stack experiences
 #### Languages
