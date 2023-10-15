@@ -4,6 +4,8 @@ My name is Phubordin Poolnai 🧒🏽, a freshman college student who's addicted
 
 I'm currently learning how to improve server performance and web development.
 
+Yea I love also luv linux more than ur mom <3 UwU OxO
+
 ### Contact
 - [Facebook](https://facebook.com/MirailiscLm)
 - [Twitter](https://twitter.com/Mirailisc)
