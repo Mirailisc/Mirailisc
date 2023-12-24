@@ -2,7 +2,7 @@
 
 My name is Phubordin Poolnai 🧒🏽, a freshman college student who's addicted to TypeScript, web development, and Linux.
 
-I'm currently learning how to improve server performance and web development.
+I'm currently learning DevOps and Backend Development.
 
 Yea I also luv linux more than ur mom <3 UwU OxO
 
