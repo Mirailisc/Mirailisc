@@ -1,5 +1,3 @@
-![banner](https://raw.githubusercontent.com/Mirailisc/Mirailisc/main/github_banner.svg)
-
 My name is Phubordin Poolnai 🧒🏽, a freshman college student who's addicted to TypeScript, web development, and Linux.
 
 I'm currently learning DevOps and Backend Development.
