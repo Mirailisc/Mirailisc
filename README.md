@@ -1,4 +1,4 @@
-My name is Phubordin Poolnai 🧒🏽, a freshman college student who's addicted to TypeScript, web development, and Linux.
+My name is Phubordin Poolnai 🧒🏽, a sophomore college student who's addicted to TypeScript, web development, and Linux.
 
 I'm currently learning Microservice development.
 
