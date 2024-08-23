@@ -15,7 +15,7 @@ Yea I also luv linux more than ur mom <3 UwU OxO
 ### For nerds
 
 🛠️ My Tech stacks
-- Programming Language : JavaScript, TypeScript, C, C++, C#, SQL, Python, Bash, Terraform
+- Programming Language : JavaScript, TypeScript, C, C++, C#, SQL, Python, Bash, Terraform, Lua
 - Frontend : React, Next.js, Vue, Nuxt.js, Django
 - Backend : Express, Nest, Django Rest
 - DB : MongoDB, MySQL, Postgres, Redis, Influx, Prometheus, Azure Blob, Minio
