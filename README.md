@@ -1,10 +1,6 @@
 [![wakatime](https://wakatime.com/badge/user/f79e2202-dbcf-4c8f-8d43-b4469f265518.svg)](https://wakatime.com/@f79e2202-dbcf-4c8f-8d43-b4469f265518)
 
-My name is Phubordin Poolnai 🧒🏽, a sophomore college student who's addicted to TypeScript, web development, and Linux.
-
-I'm currently learning Microservice development.
-
-Yea I also luv linux more than ur mom <3 UwU OxO
+My name is Phubordin Poolnai 🧒🏽, a sophomore college student who's addicted to TypeScript, Web Development, and Linux.
 
 ### Contact
 - [Facebook](https://facebook.com/MirailiscLm)
