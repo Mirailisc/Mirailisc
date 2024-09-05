@@ -1,3 +1,5 @@
+[![wakatime](https://wakatime.com/badge/user/f79e2202-dbcf-4c8f-8d43-b4469f265518.svg)](https://wakatime.com/@f79e2202-dbcf-4c8f-8d43-b4469f265518)
+
 My name is Phubordin Poolnai 🧒🏽, a sophomore college student who's addicted to TypeScript, web development, and Linux.
 
 I'm currently learning Microservice development.
