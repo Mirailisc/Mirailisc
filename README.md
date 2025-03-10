@@ -19,5 +19,7 @@ My name is Phubordin Poolnai 🧒🏽, a sophomore college student who's addicte
 - Testing : Cypress, Jest, Cucumber
 - Frontend : React, Next.js, Vue, Nuxt.js, Django
 - Backend : Express, Nest, Django Rest
-- DB : MongoDB, MySQL, Postgres, Redis, Influx, Prometheus, Azure Blob, Minio
-- DevOps : Grafana, Cloudflare, Kubernetes, Docker, Github Action, Nginx
+- DB : MongoDB, MySQL, Postgres, Redis, Azure Blob, Minio
+- CI/CD : ArgoCD, Github Actions
+- Monitoring : Sentry, Grafana, Apache Superset, Prometheus, InfluxDB
+- Container : Docker, Kubernetes
