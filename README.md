@@ -2,7 +2,7 @@
 
 ![Sui](https://media1.tenor.com/m/JIKG6hZRIJUAAAAC/suisei-hoshimachi-suisei.gif)
 
-My name is Phubordin Poolnai 🧒🏽, a sophomore college student who's addicted to TypeScript, Web Development, and Linux.
+My name is Phubordin Poolnai 🧒🏽, a junior college student who's addicted to TypeScript, Web Development, and Linux.
 
 ### Contact
 - [Facebook](https://facebook.com/MirailiscLm)
@@ -19,7 +19,7 @@ My name is Phubordin Poolnai 🧒🏽, a sophomore college student who's addicte
 - Testing : Cypress, Jest, Cucumber
 - Frontend : React, Next.js, Vue, Nuxt.js, Django, Astro
 - Backend : Express, Nest, Django Rest, Fastify, Elysia
-- DB : MongoDB, MySQL, Postgres, Redis, Azure Blob, Minio
+- DB : MongoDB, MySQL, Postgres, Redis, Azure Blob, Minio, RabbitMQ
 - CI/CD : ArgoCD, Github Actions
 - Monitoring : Sentry, Grafana, Apache Superset, Prometheus, InfluxDB
 - Container : Docker, Kubernetes
