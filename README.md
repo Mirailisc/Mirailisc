@@ -15,7 +15,7 @@ My name is Phubordin Poolnai 🧒🏽, a junior college student who's addicted t
 ### For nerds
 
 🛠️ My Tech stacks
-- Programming Language : JavaScript, TypeScript, C, C++, C#, SQL, Python, Bash, Terraform, Lua
+- Programming Language : JavaScript, TypeScript, C, C++, C#, SQL, Python, Bash, Terraform, Lua, Rust
 - Testing : Cypress, Jest, Cucumber
 - Frontend : React, Next.js, Vue, Nuxt.js, Django, Astro
 - Backend : Express, Nest, Django Rest, Fastify, Elysia
