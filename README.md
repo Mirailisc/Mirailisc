@@ -9,7 +9,7 @@ My name is Phubordin Poolnai 🧒🏽, a junior college student who's addicted t
 - [X](https://x.com/Mirailisc)
 - [LinkedIn](https://www.linkedin.com/in/phubordin/)
 
-![My github status](https://github-readme-stats.vercel.app/api?username=mirailisc&show_icons=true&theme=tokyonight) <img src="https://media.tenor.com/pkDcBFnvuWoAAAAd/my-reaction-to-that-information-suisei.gif" alt="nice" width="200"> <img src="https://media1.tenor.com/m/_ygR6nyA9osAAAAd/hoshimachi-suisei-suisei.gif" alt="nice" width="300"> <img src="https://media1.tenor.com/m/AAueqx_LkZoAAAAC/hoshimachi-suisei-dance-suiseggs.gif" alt="nice" width="300">
+![My github status](https://github-readme-stats.vercel.app/api?username=mirailisc&show_icons=true&theme=tokyonight) 
 ![suiseegs](./sui.gif)
 
 ### For nerds
