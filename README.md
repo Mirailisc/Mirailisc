@@ -15,11 +15,13 @@ My name is Phubordin Poolnai 🧒🏽, a junior college student who's addicted t
 ### For nerds
 
 🛠️ My Tech stacks
-- Programming Language : JavaScript, TypeScript, C, C++, C#, SQL, Python, Bash, Terraform, Lua, Rust
-- Testing : Cypress, Jest, Cucumber
-- Frontend : React, Next.js, Vue, Nuxt.js, Django, Astro
-- Backend : Express, Nest, Django Rest, Fastify, Elysia
-- DB : MongoDB, MySQL, Postgres, Redis, Azure Blob, Minio, RabbitMQ
-- CI/CD : ArgoCD, Github Actions
-- Monitoring : Sentry, Grafana, Apache Superset, Prometheus, InfluxDB
-- Container : Docker, Kubernetes
+
+[![Programming Language](https://skillicons.dev/icons?i=html,css,sass,js,ts,c,cpp,cs,py,bash,terraform,rust,lua,latex)](https://skillicons.dev)
+
+[![Frontend Development](https://skillicons.dev/icons?i=react,vue,vite,next,nuxt,django,astro,threejs,tailwind)](https://skillicons.dev)
+
+[![Backend Development](https://skillicons.dev/icons?i=nodejs,nestjs,bun,actix,prisma,express,graphql,redis,rabbitmq)](https://skillicons.dev)
+
+[![Testing](https://skillicons.dev/icons?i=jest,vitest,cypress)](https://skillicons.dev)
+
+[![DevOps](https://skillicons.dev/icons?i=grafana,prometheus,docker,kubernetes,sentry,cloudflare,githubactions,)](https://skillicons.dev)
