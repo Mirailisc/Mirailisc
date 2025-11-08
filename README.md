@@ -10,7 +10,6 @@ My name is Phubordin Poolnai 🧒🏽, a junior college student who's addicted t
 - [LinkedIn](https://www.linkedin.com/in/phubordin/)
 
 ![My github status](https://github-readme-stats.vercel.app/api?username=mirailisc&show_icons=true&theme=tokyonight) 
-![suiseegs](./sui.gif)
 
 ### For nerds
 
